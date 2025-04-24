@@ -1,13 +1,14 @@
 /**
  * 
  */
-package org.cuatrovientos.dam.eedd.unittesting.ejercicio2;
+package UnitTests.ejercicio2;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import org.cuatrovientos.dam.eedd.unittesting.ejercicio2.Modulo;
 import org.junit.jupiter.api.Test;
 
 /**

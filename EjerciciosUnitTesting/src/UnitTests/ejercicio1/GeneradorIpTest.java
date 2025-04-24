@@ -1,10 +1,11 @@
 /**
  * 
  */
-package org.cuatrovientos.dam.eedd.unittesting.ejercicio1;
+package UnitTests.ejercicio1;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.cuatrovientos.dam.eedd.unittesting.ejercicio1.GeneradorIp;
 import org.junit.jupiter.api.Test;
 
 /**
